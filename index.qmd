@@ -4,8 +4,8 @@ image: photos/avivnur.jpg
 page-layout: full
 about: 
   template: trestles
-  image-shape: rectangle
-  image-width: 20em
+  image-shape: round
+  image-width: 23em
   links:
     - icon: linkedin 
       text: LinkedIn
@@ -21,30 +21,30 @@ about:
       href: mailto:aanur@wpi.edu
 ---
 
-\# \*\*Welcome!\*\*
+# **Welcome!**
 
 I'm an aspiring Data Scientist currently enrolled in the Masters of Data Science program at the Worcester Polytechnic Institute. I'm particularly interested in using machine learning techniques on socioeconomic and official statistics. I will be posting my data projects here as I complete them. Thanks for visiting!
 
 ------------------------------------------------------------------------
 
-\# \*\*Education\*\*
+# **Education**
 
-\### \[Graduate\]{.underline}
+## [**Graduate**]{.underline}
 
-Worcester Polytechnic Institute \\\| Worcester, MA (Expected May 2024)
+💻Worcester Polytechnic Institute \| Worcester, Massachusetts, USA (Expected May 2024)
 
-\*\*Master of Data Science\*\*
+**Master of Data Science**
 
-\### \[Undergraduate\]{.underline}
+## [**Undergraduate**]{.underline}
 
-Sekolah Tinggi Ilmu Statistik (Institute of Statistics) \\\| Jakarta, IDN (2011 - 2015)
+*Sekolah Tinggi Ilmu Statistik* (Institute of Statistics) \| Jakarta, Indonesia (2011 - 2015)
 
-\`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")\`\*\*Bachelor of Applied Science in Statistics \| Minor in Economics\*\*
+🎓 **Bachelor of Applied Science in Statistics \| Minor in Economics**
 
 ------------------------------------------------------------------------
 
-\## \*\*Experience\*\*
+# Experience
 
-\*\*Graduate Student\*\* \\\| Foreign Fulbright Indonesia F.I.R.S.T. Program (2022 - Present) \\\| Full time
+**Graduate Student** \| Foreign Fulbright Indonesia F.I.R.S.T. Program (2022 - Present) \| Full time
 
-\*\*Statistician\*\* \\\| Statistics Indonesia (2015 - 2022) \\\| Full time
+**Statistician** \| *Badan Pusat Statistik* (Statistics Indonesia) (2015 - 2022) \| Full time
