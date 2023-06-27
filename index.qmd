@@ -1,11 +1,50 @@
 ---
-title: "avivnur"
+title: "Aviv Nur"
+image: photos/avivnur.jpg
+page-layout: full
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aviv-nur/
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/avivnur_
+    - icon: github 
+      text: GitHub
+      href: https://github.com/avivnur
+    - icon: envelope 
+      text: Email
+      href: mailto:aanur@wpi.edu
 ---
 
-This is a Quarto website.
+\# \*\*Welcome!\*\*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm an aspiring Data Scientist currently enrolled in the Masters of Data Science program at the Worcester Polytechnic Institute. I'm particularly interested in using machine learning techniques on socioeconomic and official statistics. I will be posting my data projects here as I complete them. Thanks for visiting!
 
-```{r}
-1 + 1
-```
+------------------------------------------------------------------------
+
+\# \*\*Education\*\*
+
+\### \[Graduate\]{.underline}
+
+Worcester Polytechnic Institute \\\| Worcester, MA (Expected May 2024)
+
+\*\*Master of Data Science\*\*
+
+\### \[Undergraduate\]{.underline}
+
+Sekolah Tinggi Ilmu Statistik (Institute of Statistics) \\\| Jakarta, IDN (2011 - 2015)
+
+\`r fontawesome::fa("graduation-cap", fill = "#124559", a11y = "sem")\`\*\*Bachelor of Applied Science in Statistics \| Minor in Economics\*\*
+
+------------------------------------------------------------------------
+
+\## \*\*Experience\*\*
+
+\*\*Graduate Student\*\* \\\| Foreign Fulbright Indonesia F.I.R.S.T. Program (2022 - Present) \\\| Full time
+
+\*\*Statistician\*\* \\\| Statistics Indonesia (2015 - 2022) \\\| Full time
