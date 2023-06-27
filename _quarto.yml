@@ -4,15 +4,31 @@ project:
 
 website:
   title: "Aviv Nur"
+  favicon: photos/android-chrome-192x192.png
   navbar:
+    title: false
+    logo: photos/Aviv Nur-logos.png
+    logo-alt: "A lifelong learner"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resources.qmd
+      - posts.qmd
+    page-footer:
+      left: 
+        - "Copyright 2023, Aviv Nur"
+    right: 
+      - icon: github
+        href: https://github.com/avivnur
+      - icon: twitter
+        href: https://twitter.com/avivnur_
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: United
+      dark: Cyborg
     css: styles.css
     page-layout: full
 
